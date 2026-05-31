@@ -5,7 +5,7 @@ html {
   zoom: 1.25;
 }
 
-{
+* {
   box-sizing: border-box;
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
